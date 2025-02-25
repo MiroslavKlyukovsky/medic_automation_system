@@ -1,2 +1,2 @@
-# medic-automation-system
+# medic_automation_system
 Спроба створити систему медичного автоматизування з відкритим кодом для України
